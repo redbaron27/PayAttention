@@ -15,8 +15,8 @@ To get PayAttention to work as a fully functioning WebApp follow these simple st
 1. Download the PayAttention_BackEnd_NoteBook.ipynb file
 2. Open with Google Colab
 3. Run through the 3 Notebook Sections
-      - install packages
-      - connect to front end web app
+      - Install packages
+      - Connect to front end web app
       - Use the provided link to go to the WebApp
      
 ### Option 2 - Interactive Notebook:
@@ -25,10 +25,10 @@ You can also use PayAttention via an interactive notebook with precoded widgets:
 1. Download the PayAttention_Interactive_NoteBook.ipynb file
 2. Open with Google Colab
 3. Run through Notebook Sections:
-      - install packages
-      - functions
-      - notebook UI
-      - results cell
+      - Install packages
+      - Runctions
+      - Notebook UI
+      - Results cell
       
 ===========================================================
 
