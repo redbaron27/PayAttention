@@ -46,6 +46,7 @@ Additional Content:
 Authors:
 - Raz Friedman (r.friedman@berkeley.edu)
 - Matthew Forbes (mforbes97@berkeley.edu)
+
 Contributors:
 - Wesley Kwong (weskwong2@ischool.berkeley.edu)
 - Edwin Na (edw_na@berkeley.edu)
