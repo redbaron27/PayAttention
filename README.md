@@ -3,9 +3,9 @@
 
 ![](demo.gif)![](demo2.gif)
 
-COVID-19 forced teams around the world to transition their communications online. While Work from home is preferred for some of us, the limitations of video conference-calls decrease your team's productivity. We are here to help you understand your team better. In-person communications allow us to read each other’s body language which we unconsciously interpret as emotional communication.
+With the recent increased usage in video conferencing, many people have been able to communicate with coworkers from the comfort of their home. However, video conferencing loses some of the key physical cues that people use to properly and fully communicate with each other. Thus, the limitations of video conference calls can lead to a decrease in team productivity. PayAttention aims to alleviate these problems by allowing people to better understand each other. 
 
-PayAttention will help you better understand your team’s emotional response to your slides, talking-points, and feedback. These unprecedented times changed the way we engage with others, and we are here to change HOW we understand each other.
+In-person communications allow us to read each other’s body language which we unconsciously interpret as emotional communication. PayAttention helps you understand a team’s emotional response to your slides, talking-points, and feedback. Simply upload your video, select your preferences and receive immediate results! 
 
 ## How to use PayAttention:
 
@@ -19,7 +19,7 @@ To get PayAttention to work as a fully functioning WebApp follow these simple st
       - Connect to front end web app
       - Use the provided link to go to the WebApp
      
-### Option 2 - Interactive Notebook:
+### Option 2 - Interactive Notebook
 
 You can also use PayAttention via an interactive notebook with precoded widgets:
 1. Download the PayAttention_Interactive_NoteBook.ipynb file
