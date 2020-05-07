@@ -40,7 +40,7 @@ Packages used:
 - anvil-uplink
 
 Additional Content:
-- Recorded demo
+- Full Recorded demo
 - Features in development - Color to Emotion EDA
 
 ===========================================================
