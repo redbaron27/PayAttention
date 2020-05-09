@@ -39,6 +39,10 @@ Packages used:
 - opencv-python
 - anvil-uplink
 
+Code to shade images taken from William Chargin of Khan Academy:
+- link to his code: https://gist.github.com/WChargin/d8eb0cbafc4d4479d004
+- his article on the code: http://engineering.khanacademy.org/posts/making-thumbnails-fast.htm
+
 Additional Content:
 - Full Recorded demo
 - Features in development - Color to Emotion EDA
